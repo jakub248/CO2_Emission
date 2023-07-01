@@ -31,6 +31,6 @@ WARNING!
 tkinter library doesn't work properly with MacOS!
 
 
-##Authors
+## Authors
 
 This project was created by Jakub Banasiak.
